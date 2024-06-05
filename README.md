@@ -22,8 +22,8 @@ A simple shell script I run to keep my MacBook clean and patched.
 **To Run:**
 
 ```
-chmod +x maid.sh
-./maid.sh
+chmod +x macbit.sh
+./macbit.sh
 ```
 
 ## Important Notice
